@@ -1,0 +1,6 @@
+export(RM.w, PC.w, tab.weight, EWaldtest, PerformEquating, ICC.fun, RT.thres, prob.assign)
+
+
+import(eRm, psychomix, weights)
+
+
